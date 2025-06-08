@@ -36,3 +36,4 @@ We use features like average number of rooms, lower income population percentage
 ```bash
 pip install pandas scikit-learn
 python house_price_prediction.py
+
